@@ -1,0 +1,21 @@
+#countable{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#countable2{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#countable3{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#result{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
